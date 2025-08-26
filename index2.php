@@ -1,4 +1,6 @@
 <html>
+  <head>
+  </head>
 <?php
 echo "arquivo com conteúdo php";
 echo "mais conteúdo";
@@ -11,4 +13,5 @@ function dizerOi() {
 </script>
 </body>
 </html>
+
 
