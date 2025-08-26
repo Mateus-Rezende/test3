@@ -4,10 +4,11 @@ echo "arquivo com conteúdo php";
 echo "mais conteúdo";
 ?>
 <body>
-<script>
+<script type="javascript">
 function dizerOi() {
   console.log("oi");
 }
 </script>
 </body>
 </html>
+
