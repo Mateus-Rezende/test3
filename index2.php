@@ -1,2 +1,4 @@
-arquivo com conteúdo php
-mais conteúdo
+<?php
+echo "arquivo com conteúdo php";
+echo "mais conteúdo";
+?>
